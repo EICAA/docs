@@ -28,7 +28,7 @@ url: "https://eicaa.github.io" # the base hostname & protocol for your site
 
 # Social (First three Required)
 repo: "https://github.com/eicaa/docs"
-github_user: "thisistaimur"
+github_user: "eicaa"
 github_repo: "docs"
 github_branch: "master"
 
