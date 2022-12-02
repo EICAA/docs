@@ -64,7 +64,7 @@ feedback: true
 # If commented, will use material hat theme
 logo: "assets/img/logo.png"
 logo_pixels: 34
-#color: "#30638e"
+color: "#86C17B"
 # color: "#8c1515" # primary color for header, buttons
 
 # Build settings
@@ -75,8 +75,8 @@ markdown: kramdown
 # tag_search_endpoint: https://ask.cyberinfrastructure.org/search?q=
 tag_color: primary # danger, success, warning, primary, info, secondary
 
-accentColor: green # purple, green, etc.
-themeColor: green # purple, green, blue, orange, purple, grey
+accentColor: red # purple, green, etc.
+themeColor: red # purple, green, blue, orange, purple, grey
 fixedNav: 'true' # true or false
 
 permalink: /:year/:title/
