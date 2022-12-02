@@ -62,7 +62,7 @@ feedback: true
 # google-analytics: UA-XXXXXXXXXX
 # Image and (square) dimension for logo (don't start with /)
 # If commented, will use material hat theme
-logo: "assets/img/logo.png"
+logo: "assets/img/eicaa.svg"
 logo_pixels: 160
 color: "#86C17B"
 # color: "#8c1515" # primary color for header, buttons
