@@ -1,8 +1,8 @@
 ---
 layout: default
-title: EICAA-DP User Documentation
+title: Home
 nav_order: 1
-has_children: true
+permalink: /
 ---
 
 # EICAA-Digital Platform User Documentation
