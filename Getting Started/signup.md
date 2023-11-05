@@ -2,7 +2,7 @@
 layout: default
 title: Sign-Up
 nav_order: 3
-has_children: true
+has_children: false
 parent: Getting Started
 ---
 ## Sign Up
