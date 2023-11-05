@@ -19,4 +19,4 @@ Here you will find the User Documentation for the EICAA-Digital Platform (DP). W
 
 📊 Analyze entrepreneruial and intrapreneurial competences of groups.
 
-[Get started now](https://platform.eicaa.eu){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 .eicaa }
+[Get started now](https://platform.eicaa.eu){: .btn .btn-purple .fs-5 .mb-4 .mb-md-0 .mr-2 .eicaa }
