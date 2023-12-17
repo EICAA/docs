@@ -19,10 +19,11 @@ Here you will find the User Documentation for the EICAA-Digital Platform (DP). W
 
 📊 Analyze entrepreneruial and intrapreneurial competences of groups.
 
-[Get started now](https://platform.eicaa.eu){: .btn .btn-purple .fs-5 .mb-4 .mb-md-0 .mr-2 .eicaa }
+[Get started now](https://platform.eicaa.eu){: .btn .btn-green .fs-5 .mb-4 .mb-md-0 .mr-2 .eicaa }
 
 # Getting Started
 
 Welcome to EICAA-Digital Platform, a platform that empowers you to map entrepreneurial competences in groups of students or employees. To get started, you'll need to sign in or sign up for an account. This guide will walk you through the process step by step.
 
-> Users need accounts to use the paltform. Account information will not be shared with any third-party apps.
+> {: .new }
+>> Users need accounts to use the platform. Account information will not be shared with any third-party apps.
