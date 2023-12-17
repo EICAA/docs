@@ -5,6 +5,14 @@ $purple-300: #B8C140 !default;
 
 $btn-purple:$purple-100;
 
-$eicaa-green: #B8C140;
+$eicaa-green: #B0C74D;
 
-$link-color: $eicaa-green;
+$link-color: #0091C0;
+
+$btn-green: #B0C74D;
+
+.btn-green {
+  background-color: #B0C74D;
+  border-color: #B0C74D;
+  color: #fff;
+}
