@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Competence Monitor
-nav_order: 1
+nav_order: 3
 has_children: true
 ---
-
 # Competence Monitor
 
 Competence Monitor is the second menu on the left, characterised by the symbol:

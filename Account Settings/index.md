@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Account
-nav_order: 1
+nav_order: 6
 has_children: true
 ---
-
 # Account Settings
 
 Here you will find out what Account Settings can a user change on the EICAA-DP. To access the Account Settings page, simply click the cog wheel icon in the lower left panel named “User”.
