@@ -1,4 +1,4 @@
 remote_theme: pmarsceill/just-the-docs
 logo: "assets/EICAA_Logo.png"
-color_scheme: eicaa
+color_scheme: dark
 has_toc: false
