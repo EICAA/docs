@@ -35,4 +35,7 @@ The Change Password section can be to update a user’s account password. Passwo
 
 The Delete Account button can be used to erase all of the user's personal data stored on EICAA’s database.
 
+> {: .new }
+> Note
+>
 > User’s personal data would be deleted only. The database relations between the user and their  assessments and results will not be deleted, and the assessment and results data will be stored anonymously.
