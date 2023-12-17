@@ -8,7 +8,7 @@ has_toc: false
 
 # Competence Development Kit
 
-# Navigation
+## Navigation
 
 _Competence Development Kit_ is the fourth menu point on the left-side menu. The Competence Development Kit is symbolized by a file box symbol.
 
@@ -16,11 +16,11 @@ _Competence Development Kit_ is the fourth menu point on the left-side menu. The
 
 ![2](https://drive.google.com/uc?id=1KYhokOlGdEnU9SyEC-5oXaNSuWk-QQ6d)
 
-# Competence Development Kit
+## Competence Development Kit
 
 The Competence Development Kit by our means relates to EICAA Competence Development Kit which provides a catalogue of entrepreneurial and intrapreneurial teaching and training resources that are aligned to the EICAA Competence Framework (based on the Entrepreneurship Competence Framework EntreComp developed by the European Commission) and that can be used to enhance the entrepreneurial competence development within higher education programs and business training.
 
-### EICAA Target Groups:
+## EICAA Target Groups:
 
 The users of the EICAA Digital Platform are typically entrepreneurship educators and trainers as well as program managers and executives as well as anyone interested in fostering entrepreneurial competences of learners.
 
@@ -34,7 +34,7 @@ The users of the Competence Development Kit have two possibilities:
 
 ![3](https://drive.google.com/uc?id=1DcaFow6z5ahu7C7-sTeu0g1w7RKe-gz5
 
-# Create new self-assessment
+## Create new self-assessment
 
 2. Use the Competence Development Kit as a learning intervention for students or employees.
 
@@ -46,7 +46,7 @@ Clicking on the blue button named “Choose” under “Employees” you will be
 
 ![5](https://drive.google.com/uc?id=1LyUAsiWQf5MXmVHm5_T3ZwIKf2az7c8J)
 
-# Select a CDK module
+## Select a CDK module
 
 You can select “Area”, “Competence”, and “Difficulty” by clicking on the respective buttons. On the right side you find a search option field.
 
@@ -60,7 +60,7 @@ By clicking on the respective area, all associated modules to the selected area 
 
 ![8](https://drive.google.com/uc?id=1QKaxi9Brzt-JOD5jYhdjmSbRnPjdFi--)
 
-# Overview
+## Overview
 
 In the upper tab you will get information about “Overview”, ”Manual”, “Resources”, “Scope”, “Assessment”, “Author”, and “Rate”. Clicking on the respective tab the information will appear.
 
@@ -70,37 +70,37 @@ Below you find information on “Learning Outcomes”, “Other Competences”, 
 
 ![9](https://drive.google.com/uc?id=1IR9k0q2dwMXqbra_2Se1_WwsdwANVfyP)
 
-# Manual
+## Manual
 
 Clicking on “Manual” on the upper tab you will be conducted to the “Instructor Manual” which gives you a deeper overview on the module indicating the structure of the module.
 
 ![10](https://drive.google.com/uc?id=1lPvnHLioL2-IIE6j9hLXDEIhJIsAq6FX)
 
-# Resources
+## Resources
 
 Clicking on “Resources” on the upper tab you will see the literature references as well as the indication of external / additional material related to the module.
 
 ![11](https://drive.google.com/uc?id=1GFH9HmXJPSqAFGvk-yrxp5K4lfgbh7Ya)
 
-# Scope
+## Scope
 
 Clicking on “Scope” on the upper tab you will get information about the format and the workload of the module.
 
 ![12](https://drive.google.com/uc?id=1kuXNzR91UA2xSdIVIMQHvNoI-udAWJg8)
 
-# Assessment
+## Assessment
 
 Clicking on “Assessment” on the upper tab you will get information about the “Supervision of Assessment”, the “Assessment”, and the “Quality Assurance”.
 
 ![13](https://drive.google.com/uc?id=1LI4RbJusjTIuVw3-avjjCZp5w3YeLGLb)
 
-# Author
+## Author
 
 Clicking on “Author” on the upper tab you will get information about the name of the author of the module, the institution, the country of the issuer, and the date of issuing.
 
 ![14](https://drive.google.com/uc?id=1IrRdH856v0ixsj6D8dqJRSbSYTOGaRWM)
 
-# Rate
+## Rate
 
 Clicking on “Rate” on the upper tab, on the left side you will get an overview on how other users have rated the CDK module. On the right side you have the possibility to rate the CDK module by clicking on the stars. The more stars you click on the better the module is rated.
 
@@ -108,7 +108,7 @@ Clicking on “Submit my rating” at the bottom of the page, your rating will b
 
 ![15](https://drive.google.com/uc?id=1AqG3KiCvyu684qVKv6W748Va2VUKeUtm)
 
-# Select a Competence
+## Select a Competence
 
 Clicking on “Competence”, you will get an overview on all the competences of the Competence Development Kit.
 
@@ -122,7 +122,7 @@ Clicking on the “Select” button on the very right side you will get an overv
 
 ![17](https://drive.google.com/uc?id=1RYCjksgInv4hnl76G6qT3olSQsGaJydf)
 
-# Select Difficulty
+## Select Difficulty
 
 Clicking on “Difficulty” on the upper tab, you have the possibility to choose between the three levels “intermediate”, “basic”, and “advanced.
 
@@ -134,7 +134,7 @@ Clicking on “Select” on the very right side, you will get to the content of 
 
 ![19](https://drive.google.com/uc?id=1xlgnHGEBeQpGjhYBqo2IwfomHdVu2BJt)
 
-# Overview
+## Overview
 
 In the upper tab you can choose between “Overview”, ”Manual”, “Resources”, “Scope”, “Assessment”, “Author”, and “Rate”. Clicking on the respective tab the information will appear.
 
@@ -144,37 +144,37 @@ Below you find information on “Learning Outcomes”, “Other Competences”, 
 
 ![20](https://drive.google.com/uc?id=1pIHPHe3l-qk95POwxioa57dkAU5YQgGw)
 
-# Manual
+## Manual
 
 Clicking on “Manual” on the upper tab you will be conducted to the “Instructor Manual” which gives you a deeper overview on the competence indicating the structure of the module.
 
 ![21](https://drive.google.com/uc?id=1hfT1bq-KndBIJdFAg6EBMeVFJTR7PTOE)
 
-# Resources
+## Resources
 
 Clicking on “Resources” on the upper tab you will see the literature references as well as the indication of external / additional material related to the module.
 
 ![22](https://drive.google.com/uc?id=1VAxJWNYifGtTXqMrdUzn6S2LZOCseI2y)
 
-# Scope
+## Scope
 
 Clicking on “Scope” on the upper tab you will get information about the format and the workload of the module.
 
 ![23](https://drive.google.com/uc?id=1ZigqQyMHV7iz1uNkpzqfb3m9WDFHyzp9)
 
-# Assessment
+## Assessment
 
 Clicking on “Assessment” on the upper tab you will get information about the “Supervision of Assessment”, the “Assessment”, and the “Quality Assurance”.
 
 ![24](https://drive.google.com/uc?id=1hhDV4PflDeSjIU0dqkhb6iOICdJm-RQ9)
 
-# Author
+## Author
 
 Clicking on “Author” on the upper tab you will get information about the name of the author of the module, the institution, the country of the issuer, and the date of issuing.
 
 ![25](https://drive.google.com/uc?id=1Dfh4BORdPhShAQEMeb364yTbADlT5xd9)
 
-# Rate
+## Rate
 
 Clicking on “Rate” on the upper tab, on the left side you will get an overview on how other users have rated the CDK module. On the right side you have the possibility to rate the CDK module by clicking on the stars. The more stars you click on the better the module is rated.
 
@@ -182,7 +182,7 @@ Clicking on “Submit my rating” at the bottom of the page, your rating will b
 
 ![26](https://drive.google.com/uc?id=1xqZ6-z5WnVUu3B1yq0qA60PlN94Mkr1g)
 
-# Select Difficulty
+## Select Difficulty
 
 Clicking on “Difficulty” on the upper tab, you have the possibility to choose between the three levels “intermediate”, “basic”, and “advanced.
 

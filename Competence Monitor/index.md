@@ -13,7 +13,7 @@ Competence Monitor is the second menu on the left, characterised by the symbol:
 
 You can also create a new assessment from the home page.
 
-# Student self-assessment
+## Student self-assessment
 
 Choose the “student” self assessment option to create one. To create an assessment, you can choose the following options:
 
@@ -28,7 +28,7 @@ Choose the “student” self assessment option to create one. To create an asse
 
 ![alt_text](https://drive.google.com/uc?id=11iiRFJeCNDfC8iulDnFRBlig80dj_ik5)
 
-# Employee self assessment
+## Employee self assessment
 
 Choose the “employee” self assessment option to create one. To create an assessment, you can choose the following options:
 
@@ -43,13 +43,13 @@ Choose the “employee” self assessment option to create one. To create an ass
 
 ![alt_text](https://drive.google.com/uc?id=14MHC_w4jnspPnOV9JZOdE9wSQBA6NVvl)
 
-# Sharing the assessment
+## Sharing the assessment
 
 Once these fields are filled, a QR Code and a link to the assessment will be generated to be shared with the participants. This assessment will now also appear on the home page.
 
 ![alt_text](https://drive.google.com/uc?id=1yo487GScnNyeXrsN5gz_4kl4qco-LAme)
 
-# Summary
+## Summary
 
 On the Competence Monitor page, you can choose the assessments whose data you want to be diagnosed.
 
@@ -59,25 +59,25 @@ You will then get a summary elaborating some practical details, and giving the s
 
 ![alt_text](https://drive.google.com/uc?id=1GsImthmgxuUAoRuqCEXZpveHORsKmtED)
 
-# Group Score Averages
+## Group Score Averages
 
 This section shows a spider chart of the averages of all the competences. The outer of the spider chart means a higher score and the closer to the center means a lower score.
 
 ![alt_text](https://drive.google.com/uc?id=133U2c-T_V3fiLSKyB0epCz8DE6MwwaP2)
 
-# Competence Heatmap
+## Competence Heatmap
 
 This section shows a heatmap of the distribution of scores of the participants. Darker colours indicate higher frequency for that given competence, whereas lighter colours indicate lower frequency.
 
 ![alt_text](https://drive.google.com/uc?id=1sQqNH8kEhoIY-sWE4Ok9FevIUw-XSezM)
 
-# Proficiency Level Distribution
+## Proficiency Level Distribution
 
 This section shows a histogram of the distribution of participants across the 5 progression levels (None, Basic, Intermediate, Advanced, Expert). It explains what proportion of the participants falls in each progression level i.e. how many of the participants are at the Basic level, Intermediate level, and so on.
 
 ![alt_text](https://drive.google.com/uc?id=1QxF7VKqjs2VB1LquB7LiMcBgAPq21lCC)
 
-# Recommended CDK Modules
+## Recommended CDK Modules
 
 Based on the strengths and weaknesses, you can see automatic recommendations for interventions to follow to work on these. You can see the interventions by clicking this icon on the top right of the page:
 
@@ -87,7 +87,7 @@ Upto 5 modules will be suggested based on which competences can be further devel
 
 ![alt_text](https://drive.google.com/uc?id=1MJbkD1rkVXeFiwn1rwosI046U5d-6XHb)
 
-# Export
+## Export
 
 On the top left, you can click on this icon to access the export option:
 
