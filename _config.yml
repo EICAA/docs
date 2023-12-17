@@ -1,5 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
 logo: "assets/EICAA_Logo.png"
 favicon_ico: "/assets/favicon_io/favicon.ico"
-color_scheme: dark
+color_scheme: light
 has_toc: false
