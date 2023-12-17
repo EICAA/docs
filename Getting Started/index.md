@@ -25,7 +25,7 @@ Here you will find the User Documentation for the EICAA-Digital Platform (DP). W
 
 Welcome to EICAA-Digital Platform, a platform that empowers you to map entrepreneurial competences in groups of students or employees. To get started, you'll need to sign in or sign up for an account. This guide will walk you through the process step by step.
 
-> {: .new }
+{: .new}
 > Note
 >
 > Users need accounts to use the platform. Account information will not be shared with any third-party apps.

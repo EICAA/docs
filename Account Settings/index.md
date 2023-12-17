@@ -23,7 +23,8 @@ Users can edit the following information in the Basic Information section by cli
 * **Position:** User’s position at their organization
 * **Role:** Role as a user in the platform (can be Educator or Manager)
 
-> Remember to click the “Save Changes” button once you are done to save all the edits.
+{: .new }
+>> Remember to click the “Save Changes” button once you are done to save all the edits.
 
 ## Change Password
 
@@ -35,7 +36,5 @@ The Change Password section can be to update a user’s account password. Passwo
 
 The Delete Account button can be used to erase all of the user's personal data stored on EICAA’s database.
 
-> {: .new }
-> Note
->
-> User’s personal data would be deleted only. The database relations between the user and their  assessments and results will not be deleted, and the assessment and results data will be stored anonymously.
+{: .new }
+>> User’s personal data would be deleted only. The database relations between the user and their  assessments and results will not be deleted, and the assessment and results data will be stored anonymously.
