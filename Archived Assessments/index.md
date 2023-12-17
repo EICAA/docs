@@ -2,9 +2,9 @@
 layout: default
 title: Archived Assessments
 nav_order: 5
-has_children: true
+has_children: false
+has_toc: false
 ---
-
 
 # Archived Assessments
 
@@ -13,8 +13,6 @@ has_children: true
 _Archived Assessments_ is the third menu point on the left-side menu. The archive is symbolized by a file box symbol.
 
 ![1](https://drive.google.com/uc?id=1L5B6wYjskY2UAL3NMtDZpU2Jfbxl3UYw)
-
-https://drive.google.com/uc?id=
 
 Archiving by our means relates to deactivating the self-assessment. Once you archive the assessment, your participants can no longer access the assessment via the link. You can reactivate the assessment at any point by clicking on the _play button_, and then participants will be able to access the self-assessment with the same link as before.
 
@@ -53,6 +51,7 @@ In a new tab, the preview opens up. The preview is symbolized by the red preview
 In order to share the assessment URL with your participants, you can click on the chain icon. A blue pop-up appears, and the URL is copied.
 
 ![alt_text](https://drive.google.com/uc?id=1Ejz8Y8-OfKa6gxHJgSlAGlgAZUS3vqLF)
+
 You can either share it directly with your participants or copy it into your browser to open the assessment yourself.
 
 ## Assessment Summary
