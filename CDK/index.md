@@ -32,7 +32,7 @@ The users of the Competence Development Kit have two possibilities:
 
    More details on the EICAA Competence Monitor you will find when clicking on the _Competence Monitor_ you will as second menu point on the left-side menu. The Competence Monitor is symbolized by a file box symbol.
 
-![3](https://drive.google.com/uc?id=1DcaFow6z5ahu7C7-sTeu0g1w7RKe-gz5
+![3](https://drive.google.com/uc?id=1DcaFow6z5ahu7C7-sTeu0g1w7RKe-gz5)
 
 ## Create new self-assessment
 

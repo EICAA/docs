@@ -83,7 +83,7 @@ Based on the strengths and weaknesses, you can see automatic recommendations for
 
 ![alt_text](https://drive.google.com/uc?id=1Bv1jGh7DzYeIs3b2r-EuWUSD34f1EwwK)
 
-Upto 5 modules will be suggested based on which competences can be further developed and on what level does the group lie (i.e., Basic, Intermediate, Advanced)
+Up to 5 modules will be suggested based on which competences can be further developed and on what level does the group lie (i.e., Basic, Intermediate, Advanced)
 
 ![alt_text](https://drive.google.com/uc?id=1MJbkD1rkVXeFiwn1rwosI046U5d-6XHb)
 
