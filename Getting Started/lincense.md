@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FAQs
+title: License
 has_children: false
 has_toc: false
 nav_order: 7
