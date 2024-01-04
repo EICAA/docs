@@ -16,7 +16,7 @@ _Archived Assessments_ is the third menu point on the left-side menu. The archiv
 
 Archiving by our means relates to deactivating the self-assessment. Once you archive the assessment, your participants can no longer access the assessment via the link. You can reactivate the assessment at any point by clicking on the _play button_, and then participants will be able to access the self-assessment with the same link as before.
 
-Only archived assessments are able to be displayed at the _Competence Monitor_ or exported to `.csv`.
+> Note: The results of archived assessments can still be displayed using the data dashboard inside the Competence Monitor (2nd menu point on main page). Also, the data and the keys (variable names) of archived assessments can be exported at any time (`CSV`` file format) if the archived survey has been selected inside the Competence Monitor.
 
 ## Archiving an Assessment
 

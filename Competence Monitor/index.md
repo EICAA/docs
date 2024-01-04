@@ -15,7 +15,7 @@ You can also create a new assessment from the home page.
 
 ## Student self-assessment
 
-Choose the “student” self assessment option to create one. To create an assessment, you can choose the following options:
+Choose the “student” self-assessment option to create one. To create an assessment, you can choose the following options:
 
 - Assessment Name
 - Maximum participants: You can limit the number of participants. This is an optional field.
@@ -28,9 +28,9 @@ Choose the “student” self assessment option to create one. To create an asse
 
 ![alt_text](https://drive.google.com/uc?id=11iiRFJeCNDfC8iulDnFRBlig80dj_ik5)
 
-## Employee self assessment
+## Employee self-assessment
 
-Choose the “employee” self assessment option to create one. To create an assessment, you can choose the following options:
+Choose the “employee” self-assessment option to create one. To create an assessment, you can choose the following options:
 
 - Assessment Name
 - Maximum participants: You can limit the number of participants. This is an optional field.
@@ -49,51 +49,53 @@ Once these fields are filled, a QR Code and a link to the assessment will be gen
 
 ![alt_text](https://drive.google.com/uc?id=1yo487GScnNyeXrsN5gz_4kl4qco-LAme)
 
-## Summary
+## Selecting a self-assessment for data analysis
 
 On the Competence Monitor page, you can choose the assessments whose data you want to be diagnosed.
 
+![alt_text](https://drive.google.com/uc?id=1BdmmVQzP3-Y3A4y33-7AeCGPWRoxh6xS)
+
+
+Once you have selected the self-assessment(s) by pressing “update dashboard”, you will get an analytical summary that provides some basic information (e.g. number of self-assessment participants) together with key performance indicators of the self-assessment(s) on group level: average score per competence area for the group, along with the top competence strengths and weaknesses of the group.
+
 ![alt_text](https://drive.google.com/uc?id=1f9VUtBfVsvW1n1XXXWDT6O-fVuUPr6t7)
-
-You will then get a summary elaborating some practical details, and giving the score per competence area for the group, along with the top 5 strengths and weaknesses of the group.
-
-![alt_text](https://drive.google.com/uc?id=1GsImthmgxuUAoRuqCEXZpveHORsKmtED)
 
 ## Group Score Averages
 
 This section shows a spider chart of the averages of all the competences. The outer of the spider chart means a higher score and the closer to the center means a lower score.
 
-![alt_text](https://drive.google.com/uc?id=133U2c-T_V3fiLSKyB0epCz8DE6MwwaP2)
+![alt_text](https://drive.google.com/uc?id=1GsImthmgxuUAoRuqCEXZpveHORsKmtED)
 
 ## Competence Heatmap
 
 This section shows a heatmap of the distribution of scores of the participants. Darker colours indicate higher frequency for that given competence, whereas lighter colours indicate lower frequency.
 
-![alt_text](https://drive.google.com/uc?id=1sQqNH8kEhoIY-sWE4Ok9FevIUw-XSezM)
+![alt_text](https://drive.google.com/uc?id=133U2c-T_V3fiLSKyB0epCz8DE6MwwaP2)
 
 ## Proficiency Level Distribution
 
 This section shows a histogram of the distribution of participants across the 5 progression levels (None, Basic, Intermediate, Advanced, Expert). It explains what proportion of the participants falls in each progression level i.e. how many of the participants are at the Basic level, Intermediate level, and so on.
 
-![alt_text](https://drive.google.com/uc?id=1QxF7VKqjs2VB1LquB7LiMcBgAPq21lCC)
+![alt_text](https://drive.google.com/uc?id=1sQqNH8kEhoIY-sWE4Ok9FevIUw-XSezM)
 
 ## Recommended CDK Modules
 
 Based on the strengths and weaknesses, you can see automatic recommendations for interventions to follow to work on these. You can see the interventions by clicking this icon on the top right of the page:
 
-![alt_text](https://drive.google.com/uc?id=1Bv1jGh7DzYeIs3b2r-EuWUSD34f1EwwK)
+
+![alt_text](https://drive.google.com/uc?id=1QxF7VKqjs2VB1LquB7LiMcBgAPq21lCC)
 
 Up to 5 modules will be suggested based on which competences can be further developed and on what level does the group lie (i.e., Basic, Intermediate, Advanced)
 
+![alt_text](https://drive.google.com/uc?id=1Bv1jGh7DzYeIs3b2r-EuWUSD34f1EwwK)
+
+## Data Export
+
+The data query menu on the top left side also allows you to download the raw data of the self-assessment(s). To do so, click on “Export (raw csv)” to get the data and click on “Export (keys)” to get the variable names etc. allowing you to make sense of the raw data. Please note that the raw data is not standardised.  The data export option allows you to prepare further analysis of the self-assessment data that go beyond what is shown in the data dashboard.
+
 ![alt_text](https://drive.google.com/uc?id=1MJbkD1rkVXeFiwn1rwosI046U5d-6XHb)
-
-## Export
-
-On the top left, you can click on this icon to access the export option:
-
-![alt_text](https://drive.google.com/uc?id=1cQ9f7liHzFhYNr73EfJNhcsNaMVYA8zC)
 
 Both the raw data (in csv) and the keys to the assessment can be downloaded.
 
-![alt_text](https://drive.google.com/uc?id=)
+![alt_text](https://drive.google.com/uc?id=1cQ9f7liHzFhYNr73EfJNhcsNaMVYA8zC)
 
