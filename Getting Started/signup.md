@@ -13,19 +13,20 @@ parent: Getting Started
 2. **Provide Your Information**
 
    - Fill in the required information, which may include:
-     - Full Name
      - Email Address
-     - Username
      - Password
-     - [Additional Information Required]
+     - First name
+     - Last name
+     - Organization
+     - Position
+     - Role (Educator or Manager)
 3. **Agree to Terms**
 
    - Review and agree to the Terms of Service and Privacy Policy.
 4. **Complete the Registration**
 
    - Click the "Sign Up" button to create your account.
-
-6. **Welcome to EICAA-DP**
+5. **Welcome to EICAA-DP**
 
    - You can now login.
 

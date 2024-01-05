@@ -18,7 +18,7 @@ _Competence Development Kit_ is the fourth menu point on the left-side menu. The
 
 ## Competence Development Kit
 
-The Competence Development Kit by our means relates to EICAA Competence Development Kit which provides a catalogue of entrepreneurial and intrapreneurial teaching and training resources that are aligned to the EICAA Competence Framework (based on the Entrepreneurship Competence Framework EntreComp developed by the European Commission) and that can be used to enhance the entrepreneurial competence development within higher education programs and business training.
+The EICAA Competence Development Kit provides a catalogue of entrepreneurial and intrapreneurial teaching and training resources that are aligned to the EICAA Competence Framework (based on the Entrepreneurship Competence Framework EntreComp developed by the European Commission) and that can be used to enhance the entrepreneurial competence development within higher education programs and business training.
 
 ## EICAA Target Groups:
 
@@ -34,9 +34,9 @@ The users of the Competence Development Kit have two possibilities:
 
 ![3](https://drive.google.com/uc?id=1DcaFow6z5ahu7C7-sTeu0g1w7RKe-gz5)
 
-## Create new self-assessment
+## Choose the CDK type
 
-2. Use the Competence Development Kit as a learning intervention for students or employees.
+2. Use the Competence Development Kit as a learning intervention for **students** or **employees**.
 
 ![4](https://drive.google.com/uc?id=1m4myiAeWzUx0S5w5_E08IqVt1D1q9Ho0)
 
